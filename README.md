@@ -10,6 +10,7 @@
  * затем нажимаем на плюсик справа от поисковика сверху сайта и нажимаем на New CodeSpace
  * выбираем репозиторию и нажимаем Create codespace
  * внизу у вас будет терминал в него вставляем "curl -sSL https://raw.githubusercontent.com/ImMALWARE/bash-warp-generator/main/warp_generator.sh | bash" (с первого раза может не получится вставить нужно будет разрешить доступ к буферу обмена(скрин нижу), и заново вставить команду в терминал
+   
    ![scrinn](https://media.discordapp.net/attachments/1104234332903702601/1293524324120137805/image.png?ex=6707afe7&is=67065e67&hm=47d2fbd2eb5cf8d150963bb0aa5547d308c5f1caf7c54f06bcef5724740c23b5&=&quality=lossless)
  * ожидаем пока всё прогрузиться и нажимаем Ctrl+ПКМ на ссылку чтобы скачать конфиг
  * скачиваем AmneziaWG (ниже файл amneziawg-amd64-1.0.0.msi)
