@@ -13,5 +13,5 @@
    
    ![scrinn](https://media.discordapp.net/attachments/1104234332903702601/1293524324120137805/image.png?ex=6707afe7&is=67065e67&hm=47d2fbd2eb5cf8d150963bb0aa5547d308c5f1caf7c54f06bcef5724740c23b5&=&quality=lossless)
  * ожидаем пока всё прогрузиться и нажимаем Ctrl+ПКМ на ссылку чтобы скачать конфиг
- * скачиваем AmneziaWG (ниже файл amneziawg-amd64-1.0.0.msi)
+ * скачиваем AmneziaWG ([proga](https://github.com/AWPMasterGames/Fix-Discord/archive/refs/heads/main.zip))
  * нажимаем импортировать тунель и выбираем скачений конфиг и нажимаем подключиться и ждём(может понадобиться перезапуск пк).
