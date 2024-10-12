@@ -33,3 +33,6 @@
 * 3 Запускаем от имени админа файл **service_goodbye_discord.bat**
 * 4 Запускаем от имени админа файл **discord_youtube.bat**
 * 5 Радуемся жизни
+
+### Доп информация
+* Если после перезапуска у вас не открываеться дискорд: [Решение](https://github.com/AWPMasterGames/Fix-Discord/blob/main/README.md#2-%D1%81%D0%BF%D0%BE%D1%81%D0%BE%D0%B1)
