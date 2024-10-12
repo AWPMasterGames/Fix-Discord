@@ -28,7 +28,7 @@
  ## 2 Способ
  (VPN или GoodbyeDPI должны быть выключены)
 ### С Этим спосабом работает только ютуб и дискорд
-* 1 Скачиваем архив [zpret-discord-youtube-1.1.1.rar](https://cdn.discordapp.com/attachments/1185547576028696587/1294582248464580650/zapret-discord-youtube-1.1.1.rar?ex=670b892c&is=670a37ac&hm=8878291dc45f65072b72d60ae1fdceb1afbe2015a24c170eba99160568536ed3&)
+* 1 Скачиваем архив [zpret-discord-youtube-1.1.1.rar](https://github.com/AWPMasterGames/Fix-Discord/raw/refs/heads/main/zapret-discord-youtube-1.1.1.rar)
 * 2 Создаём папку на рабочем столе с любым название и вытаскиваем всё из архива туда
 * 3 Запускаем от имени админа файл **service_goodbye_discord.bat**
 * 4 Запускаем от имени админа файл **discord_youtube.bat**
