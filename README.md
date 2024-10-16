@@ -10,7 +10,7 @@
   * нажать зелёную кнопку NEW, дать любое название и нажать создать репозиторию
 * 3 Зайти в репозиторию и на жать на синею надпись uploading an existing file(скрин ниже).
    ![scrin](https://media.discordapp.net/attachments/1104234332903702601/1293524323708960798/image.png?ex=6707afe7&is=67065e67&hm=cff314d6db3ddca1d60fa3b23bc87b084e8874ac9c2035d41108c21af0de1f33&=&quality=lossless)
-  * закинуть любой файл и на Commit Changes
+  * закинуть любой файл и нажать Commit Changes
 * 4 Затем нажимаем на плюсик справа от поисковика сверху сайта и нажимаем на New CodeSpace
 * 5 Выбираем репозиторию и нажимаем Create codespace
 * 6 Внизу у вас будет терминал в него вставляем "curl -sSL https://raw.githubusercontent.com/ImMALWARE/bash-warp-generator/main/warp_generator.sh | bash" (с первого раза может не получится вставить нужно будет разрешить доступ к буферу обмена(скрин нижу), и заново вставить команду в терминал
