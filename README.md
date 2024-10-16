@@ -30,7 +30,7 @@
 ### С Этим спосабом работает только ютуб и дискорд
 * 1 Скачиваем архив [zpret-discord-youtube-1.1.1.rar](https://github.com/AWPMasterGames/Fix-Discord/raw/refs/heads/main/zapret-discord-youtube-1.1.1.rar)
 * 2 Создаём папку на рабочем столе с любым название и вытаскиваем всё из архива туда
-* 3 Запускаем от имени админа файл **service_goodbye_discord.bat**
+* 3 Запускаем от имени админа файл **service_discord_youtube.bat**
 * 4 Запускаем от имени админа файл **discord_youtube.bat**
 * 5 Радуемся жизни
 
