@@ -28,11 +28,12 @@
  ## 2 Способ
  (VPN или GoodbyeDPI должны быть выключены)
 ### С Этим спосабом работает только ютуб и дискорд
-* 1 Скачиваем архив [zpret-discord-youtube-1.1.1.rar](https://github.com/AWPMasterGames/Fix-Discord/raw/refs/heads/main/zapret-discord-youtube-1.1.1.rar)
+* 1 Скачиваем архив [zpret-discord-youtube-1.5.1.rar](https://github.com/Flowseal/zapret-discord-youtube/releases/download/1.5.1/zapret-discord-youtube-1.5.1.rar)
 * 2 Создаём папку на рабочем столе с любым название и вытаскиваем всё из архива туда
-* 3 Запускаем от имени админа файл **service_discord_youtube.bat**
-* 4 Запускаем от имени админа файл **discord_youtube.bat**
-* 5 Радуемся жизни
+* 3 Запускаем от имени админа файл **service_install.bat**
+* 4 Нажимаем любую клавишу в консоли
+* 5 В выборочном окне выбирает обычный general.bat
+* 6 Ждём чуток и нажимаем снова любую клавишу в консоли
 
 ### Доп информация
 * Если после перезапуска у вас не открываеться дискорд: перейдите к первому шагу этого способа.
